@@ -1,0 +1,31 @@
+/* style.css */
+
+.h1 {
+    color: red;
+    background-color: yellow;
+    font-family: "Comic-Sans", Arial, sans-serif;
+}
+
+.h2 { 
+    color: yellow;
+    background-color: red;
+}
+
+h1 {
+    color: red;
+    background-color: yellow;
+}
+
+h2 {
+    color: yellow;
+    background-color: red;
+}
+
+#unordered-list {
+    font-weight: 900;
+}
+
+.footer {
+    color: blue;
+    background-color: aquamarine;
+}
